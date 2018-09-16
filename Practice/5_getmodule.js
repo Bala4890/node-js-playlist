@@ -1,6 +1,7 @@
 // This is the module getting function. it gets its module from moduleexp.js
 
-var stuff = require('./moduleexp.js');// | ./ | is used to search in present directory.
+
+var stuff = require('./6_moduleexp.js');// | ./ | is used to search in present directory.
 
 
 // look here at the counter part, it is actually taking the arguments. and doing everything.
